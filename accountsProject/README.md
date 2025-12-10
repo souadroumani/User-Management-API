@@ -307,3 +307,28 @@ python manage.py migrate
 
 4️⃣ Start the Server
 python manage.py runserver
+
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/db2bf153-192a-4e7e-98df-6ba146f4566f" />
+
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eb0609e5-607d-47b0-b062-c01ef43ea950" />
+
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/df85183c-1bea-4ccb-83b3-6a092b040682" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0acc58d8-ede4-42b3-93e3-4ada442ab831" />
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/f724c521-da44-4d4e-b59e-44abd4929941" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/14ea6c6f-8bd1-40fb-bc4a-f3b9006673fc" />
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/37bfaa5c-121e-4106-8e6a-c8ccd94b9722" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/7b21d0be-4a64-401a-a2c3-c305085ce21a" />
+
